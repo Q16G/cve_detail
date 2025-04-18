@@ -3,7 +3,9 @@
 ```text
 https://www.74cms.com/download/detail/175.html
 ```
-detail
+# version
+74cms <= 3.33.0
+# detail
 In the background interface apiadmin, no official address is specified, and you can enter any address to download, subsequent support to decompress, then we construct a malicious upload package on the server. The structure is as follows
 
 ![](.imgs/359e8aee.png)
